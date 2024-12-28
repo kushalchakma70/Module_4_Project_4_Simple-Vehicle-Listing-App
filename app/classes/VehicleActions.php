@@ -1,6 +1,5 @@
 <?php
 
-
 interface VehicleActions {
    public function addVehicle($data);
    public function editVehicle($id, $data);
