@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lamborghini",
+        "type": "Car",
+        "price": "234324",
+        "image": "https:\/\/res.cloudinary.com\/unix-center\/image\/upload\/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_580,q_75,w_906\/penend4bfq6go3arnfsm.jpg"
+    },
+    {
+        "name": "Ferrari",
+        "type": "Car",
+        "price": "7000000",
+        "image": "https:\/\/i0.wp.com\/www.motorsportmaranello.com\/wp-content\/uploads\/2022\/07\/ferrari-1.jpg?w=958&ssl=1"
+    },
+    {
+        "name": "Audi",
+        "type": "Card",
+        "price": "450000",
+        "image": "https:\/\/images.dealer.com\/ddc\/vehicles\/2025\/Audi\/A3\/Sedan\/color\/Arkona%20White-Z9Z9-248,249,247-640-en_US.jpg"
+    }
+]
